@@ -1,0 +1,13 @@
+.*
+
+!.gitignore
+
+*.pyc
+
+__pycache__
+lib
+venv
+dist
+docs
+build
+node_modules
